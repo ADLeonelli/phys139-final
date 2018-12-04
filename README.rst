@@ -5,7 +5,6 @@ Table of Contents
 -----------------
 
 * `Description`_
-* `Python Version`_
 * `Dependencies`_
 
 Description
@@ -13,16 +12,9 @@ Description
 
 Back to `Table of Contents`_
 
-This project implements the Markiv Chain Monte Carlo algorithim
+This project implements Markov Chain Monte Carlo algorithims
 to an exercise in change-point detection. Namely, in the detection of
-when governmental regulations on UK mine safety were introduced between 1851 and 1962.
-
-Python Version
---------------
-
-Back to `Table of Contents`_
-
-This module is intended to use Python 3.x.
+when governmental regulations of UK mine safety were introduced between 1851 and 1962.
 
 Dependencies
 ------------
