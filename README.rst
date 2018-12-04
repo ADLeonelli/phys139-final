@@ -15,7 +15,7 @@ Back to `Table of Contents`_
 
 This project implements the Markiv Chain Monte Carlo algorithim
 to an exercise in change-point detection. Namely, in the detection of
-when governmental regulation on UK mine safety was introduced between 1851 and 1962.
+when governmental regulations on UK mine safety were introduced between 1851 and 1962.
 
 Python Version
 --------------
