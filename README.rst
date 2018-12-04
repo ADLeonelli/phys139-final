@@ -13,7 +13,9 @@ Description
 
 Back to `Table of COntents`_
 
-Description goes here.
+This project implements the Markiv Chain Monte Carlo algorithim
+to an exercise in change-point detection. Namely, in the detection of
+when governmental regulation on UK mine safety was introduced between 1851 and 1962.
 
 Python Version
 --------------
